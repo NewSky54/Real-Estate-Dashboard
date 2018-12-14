@@ -7,7 +7,7 @@
 - [ReactJS](https://reactjs.org/) - JavaScript library for building user interfaces
 - [Styled Components](https://www.styled-components.com/) - Using the best of ES6 and CSS to style your components
 - [Google-Maps-React](https://github.com/fullstackreact/google-maps-react) - Google Map React components
-- [Webpack 4](https://webpack.js.org/) - Bundle your code / Live Reloading
+- [Webpack 4](https://webpack.js.org/) - Bundle your code and Live Reloading
 
 ### Installation
 
